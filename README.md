@@ -25,7 +25,7 @@ From your terminal, install the inquirer package if you haven't already:
 npm install inquirer
 ```
 
-[<p align="right">Back to Table of Contents</p>](#table-of-contents)
+<p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ## Usage
 
@@ -106,7 +106,7 @@ After setting VS Code as the default editor:
 
 By following these steps, you can efficiently manage multi-paragraph input using either Vim or VS Code as your editor in the VS Code integrated terminal.
 
-[<p align="right">Back to Table of Contents</p>](#table-of-contents)
+<p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ## Contribution
 
@@ -183,7 +183,7 @@ To ensure a smooth contribution process, please follow these guidelines:
 
 Thank you for contributing!
 
-[<p align="right">Back to Table of Contents</p>](#table-of-contents)
+<p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ## Tests
 
@@ -230,7 +230,7 @@ Here's a more specific explanation of how users can test this README generator a
 
 Let me know if you have any other questions!
 
-[<p align="right">Back to Table of Contents</p>](#table-of-contents)
+<p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ## License
 
@@ -238,7 +238,7 @@ Let me know if you have any other questions!
 
 This project is licensed under the GNU AGPLv3 license.
 
-[<p align="right">Back to Table of Contents</p>](#table-of-contents)
+<p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ## Questions
 
@@ -248,7 +248,7 @@ GitHub: [ngojohn2002](https://github.com/ngojohn2002)
 
 Email: ngojohn2002@yahoo.com
 
-[<p align="right">Back to Table of Contents</p>](#table-of-contents)
+<p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ---
 
