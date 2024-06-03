@@ -236,6 +236,8 @@ Let me know if you have any other questions!
 
 ## License
 
+![License](https://img.shields.io/badge/License-GNU%20AGPLv3-blue.svg)
+
 This project is licensed under the GNU AGPLv3 license.
 
 <p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
