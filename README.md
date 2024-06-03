@@ -1,5 +1,7 @@
 # 09-Node-js-Professional-README-Generator
 
+![License](https://img.shields.io/badge/License-GNU%20AGPLv3-blue.svg)
+
 ## Description
 
 When creating an open source project on GitHub, it’s important to include a high-quality, professional README to increase the likelihood that other developers will contribute to the success of the project. 
@@ -233,8 +235,6 @@ Let me know if you have any other questions!
 <p align="right"><a href="#table-of-contents">Back to Table of Contents</a></p>
 
 ## License
-
-![License](https://img.shields.io/badge/License-GNU%20AGPLv3-blue.svg)
 
 This project is licensed under the GNU AGPLv3 license.
 
