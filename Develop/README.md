@@ -1,12 +1,14 @@
-# Node.js: Professional README Generator
+# Title
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-Creating a high-quality, professional README for an open-source project on GitHub is crucial for attracting contributions from other developers. This `Node.js` command-line application uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4) to generate a dynamic `README.md` file based on user input, allowing project creators to focus more on their projects.
+Description 1
 
-The generated README follows the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) and includes comprehensive details about the app's purpose, usage, installation, issue reporting, and contribution guidelines.
+Description 2
+
+Description 3
 
 ## Table of Contents
 
@@ -20,191 +22,51 @@ The generated README follows the [Professional README Guide](https://coding-boot
 
 ## Installation
 
-### Prerequisites
+Installation 1
 
-- **Node.js and npm (or yarn):** Ensure Node.js and npm (or yarn) are installed on your system. Verify by running `node -v` and `npm -v` (or `yarn -v`) in your terminal.
+Installation 2
 
-### Get the Code
-
-- Clone or download the [repository](https://github.com/ngojohn2002/09-Node-js-Professional-README-Generator) containing the README generator code to your local machine.
-
-### Install Dependencies
-
-- Navigate to the project directory in your terminal.
-- Run `npm install` (or `yarn install`) to install required dependencies, including Inquirer:
-
-  ```bash
-  npm install inquirer
+Installation 3
 
 [Back to Table of Contents](#table-of-contents)
 
 ## Usage
 
-### Run the Application
+Usage 1
 
-- Execute `node index.js` in your terminal to start the README generator.
+Usage 2
 
-### Answer the Prompts
-
-- The application prompts for project details such as title, description, installation instructions, usage, contributing guidelines, test instructions, license, GitHub username, and email address.
-- For multi-line inputs (e.g., description, installation, usage, contributing), a text editor opens for input. Save the file to continue.
-
-### Using Vim in VS Code Integrated Terminal
-
-- **Insert Mode:** When Vim opens, you're in insert mode if `-- INSERT --` is shown. Paste or type your content.
-- **Exit Insert Mode:** Press `Esc` to exit insert mode (the `-- INSERT --` message disappears).
-- **Save and Exit Vim:** Type `:wq` and press `Enter` to save and quit Vim. To exit without saving, type `:q!` and press `Enter`.
-- **Return to `inquirer`:** After saving and exiting Vim, return to the integrated terminal, where `inquirer` captures your input.
-
-### Setting VS Code as Default Editor (Optional)
-
-- Add this line to your shell config file (e.g., `~/.zshrc` for Zsh or `~/.bash_profile` for Bash):
-
-  ```sh
-  export EDITOR="code --wait"
-  ```
-
-- Reload Your Shell Configuration:
-
-  ```sh
-  source ~/.zshrc  # for Zsh
-  source ~/.bash_profile  # for Bash
-  ```
-
-### Running `inquirer` with VS Code as Default Editor
-
-- **Run Your Node.js Script:**
-
-  ```sh
-  node index.js
-  ```
-
-- **Enter and Edit Multi-line Input in VS Code:** VS Code opens for multi-line input. Paste or type content, save the file (`Cmd + S` on Mac or `Ctrl + S` on Windows/Linux), and close the editor (`Cmd + W` on Mac or `Ctrl + W` on Windows/Linux).
-- **Return to Terminal:** Control returns to the terminal, and `inquirer` captures input.
+Usage 3
 
 [Back to Table of Contents](#table-of-contents)
 
 ## Tests
 
-### Prerequisites
+Test 1
 
-- Ensure Node.js and npm (or yarn) are installed. Verify with `node -v` and `npm -v` (or `yarn -v`) in your terminal.
+Test 2
 
-### Get the Code
-
-- Clone or download the [repository](https://github.com/ngojohn2002/09-Node-js-Professional-README-Generator) containing the README generator code to your local machine.
-
-### Install Dependencies
-
-- Navigate to the project directory in your terminal.
-- Run `npm install` (or `yarn install`) to install required dependencies, including Inquirer.
-
-### Run the Application
-
-- Execute `node index.js` in your terminal to start the README generator.
-
-### Answer the Prompts
-
-- Provide necessary project details as prompted.
-
-### Verify the README
-
-- After answering prompts, a `README.md` file is created in the project's root directory.
-- Open `README.md` in a text editor or Markdown viewer to review the generated content.
-- Verify links and table of contents for correctness.
-
-### Additional Testing Tips
-
-- **Different Scenarios:** Test with various input combinations, including different licenses and optional test instructions.
-- **Edge Cases:** Test with very short or long answers to check formatting consistency.
-- **Error Handling:** Provide invalid input (e.g., an empty title) to validate error messages.
-
-### If You Encounter Issues
-
-- Verify Node.js and npm/yarn versions.
-- Ensure dependencies are installed correctly.
-- Check terminal for error messages for troubleshooting.
+Test 3
 
 [Back to Table of Contents](#table-of-contents)
 
 ## Contribution
 
-We welcome contributions from the community! Here's how you can get involved:
+Contribution 1
 
-### 1. Fork the Repository
+Contribution 2
 
-Fork the repository to your GitHub account to create a personal copy.
-
-### 2. Clone Your Fork
-
-Clone your forked repository to your local machine:
-
-```sh
-git clone https://github.com/ngojohn2002/09-Node-js-Professional-README-Generator
-cd 09-Node-js-Professional-README-Generator
-```
-
-### 3. Create a Branch
-
-Create a new branch for your changes with a descriptive name:
-
-```sh
-git checkout -b feature/your-feature-name
-```
-
-### 4. Make Your Changes
-
-Make necessary changes, following project coding standards and best practices.
-
-### 5. Commit Your Changes
-
-Commit changes with a clear, concise message:
-
-```sh
-git add .
-git commit -m "Add feature/fix description"
-```
-
-### 6. Push Your Changes
-
-Push changes to your forked repository:
-
-```sh
-git push origin feature/your-feature-name
-```
-
-### 7. Open a Pull Request
-
-Go to the original repository on GitHub, open a pull request, and explain your changes:
-
-1. Navigate to the [original repository](https://github.com/ngojohn2002/09-Node-js-Professional-README-Generator).
-2. Click "Pull requests."
-3. Click "New pull request."
-4. Select your branch from the "Compare" dropdown.
-5. Click "Create pull request."
-
-### 8. Participate in Code Review
-
-Respond to feedback and questions from maintainers. Make additional changes as needed.
-
-### 9. Wait for Approval and Merge
-
-Once approved, your pull request will be merged into the main branch.
-
-### Contribution Guidelines
-
-- **Code of Conduct:** Follow the [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).
-- **Style Guide:** Adhere to [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide).
-- **Testing:** Write and execute tests for changes, including unit tests where appropriate.
-- **Documentation:** Update documentation to reflect changes made.
-
-Thank you for contributing!
+Contribution 3
 
 [Back to Table of Contents](#table-of-contents)
 
 ## Credits
 
-This project was made possible with the help of [ChatGPT](https://chatgpt.com/).
+Credit 1
+
+Credit 2
+
+Credit 3
 
 [Back to Table of Contents](#table-of-contents)
 
