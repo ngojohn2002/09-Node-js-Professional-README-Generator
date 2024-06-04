@@ -15,6 +15,7 @@ The generated README follows the [Professional README Guide](https://coding-boot
 - [Tests](#tests)
 - [Contribution](#contribution)
 - [Credits](#credits)
+- [Deliverables](#deliverables)
 - [Questions](#questions)
 - [License](#license)
 
@@ -205,6 +206,17 @@ Thank you for contributing!
 ## Credits
 
 This project was made possible with the help of [ChatGPT](https://chatgpt.com/).
+
+[Back to Table of Contents](#table-of-contents)
+
+## Deliverables
+
+1. [Sample README](./Develop/README.md) generated using the application.
+2. [GitHub repository](https://github.com/ngojohn2002/09-Node-js-Professional-README-Generator) containing your application code.
+3. [Walkthrough video](#link-to-video) demonstrates the functionality of the README generator:
+	- How a user would invoke the application from the command line.
+	- How a user would enter responses to all of the prompts in the application.
+	- Demonstrate a generated README that matches the user input and has a functioning table of contents.
 
 [Back to Table of Contents](#table-of-contents)
 
